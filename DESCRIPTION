@@ -1,0 +1,15 @@
+Package: yapsdata
+Title: Example Data for use with Package `yaps`
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Henrik",
+           family = "Baktoft",
+           role = c("aut", "cre"),
+           email = "hba@aqua.dtu.dk",
+           comment = c(ORCID = "0000-0002-3644-4960"))
+Description: Provides example data to use with package `yaps`.
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
