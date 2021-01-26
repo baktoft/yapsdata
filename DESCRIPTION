@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "hba@aqua.dtu.dk",
            comment = c(ORCID = "0000-0002-3644-4960"))
-Description: Provides example data to use with package `yaps`.
+Description: Sole purpose is to provide example data to use with package `yaps`.
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true

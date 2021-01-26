@@ -20,7 +20,7 @@ A list containing various data from a study in Lake Hald (DK):
 \item ts Timestamp of detection in POSIXct().
 \item tag ID of detected tag.
 \item epo Timestamp as number of seconds since Unix epoch. Can be obtained using as.numeric(ts).
-\item frac Sub-second part of detection timestamp in fractions of second \link{0-1}.
+\item frac Sub-second part of detection timestamp in fractions of second (i.e. 0-1).
 \item serial Serial number of detecting hydrophone. Must match entry in data.table hydros.
 }
 }
